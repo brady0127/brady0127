@@ -47,7 +47,7 @@
 </div>
 
 <!-- <p> &nbsp;</p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=BradyZzzZ">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=brady0127">
 
 <img align="right" width="200" height="210" src="https://camo.githubusercontent.com/5124bc64baa72108c343f25e8d9dd1680c99d2b9559b5b313c43761dd48ca743/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f617374726f6e6175742e706e67"> -->
 
