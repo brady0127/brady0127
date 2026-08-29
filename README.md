@@ -28,6 +28,8 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
+<!-- Recent Projects — 内容待补充
+
 <h2>Recent Projects</h2>
 
   <h4> - 🔬 &nbsp; <a href="https://github.com/brady0127/ACORN_Redesign">ACORN_Redesign</a> &nbsp;·&nbsp; <code>C++</code> &nbsp; Efficient arbitrary-filtering approximate nearest-neighbour search, built on ACORN </h4>
@@ -36,21 +38,40 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
+-->
+
 <h2>Tech Stack</h2>
 
 <table>
   <tr>
+    <td colspan="3" align="center">
+      <img src="./assets/hello.svg" alt="Hello world" />
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
       <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" />
+      <br>scikit-learn
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+      <br>OpenCV
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
@@ -60,23 +81,43 @@
       <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
-  </tr>
-  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
+      <br>R
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
+      <br>Anaconda
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
       <br>SQLite
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="LaTeX" />
-      <br>LaTeX
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>Bash
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
+      <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="LaTeX" />
+      <br>LaTeX
     </td>
   </tr>
 </table>
