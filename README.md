@@ -28,23 +28,11 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=brady0127&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=brady0127&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=BradyZzzZ&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
-</table>
-</div>
-
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1020,50:1a1b27,100:24283b&height=120&section=footer" width="100%">
 
 <!-- <p> &nbsp;</p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=brady0127">
