@@ -13,9 +13,9 @@
 </h1>
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/thinking.png" width="96" align="middle" alt="" />
+<img src="https://raw.githubusercontent.com/brady0127/brady0127/main/assets/petals-left.svg" alt="" />
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="" />
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" width="96" align="middle" alt="" />
+<img src="https://raw.githubusercontent.com/brady0127/brady0127/main/assets/petals-right.svg" alt="" />
 </div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
