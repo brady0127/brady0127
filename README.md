@@ -18,8 +18,6 @@
 <img src="./assets/petals-right.svg" alt="" />
 </div>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
 <h2>About Me</h2>
 
   <h4> - 🎓 &nbsp; Master of Information Studies student at the McGill University </h4>
