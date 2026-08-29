@@ -20,7 +20,7 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<p align="left"><img src="https://img.shields.io/badge/🔍_ABOUT_ME_🔎-995bfb" height="30em" style="border-radius:6px" /></p>
+<h2>About Me</h2>
 
   <h4> - 🎓 &nbsp; Master of Information Studies student at the McGill University </h4>
   <h4> - 📖 &nbsp; Learning various aspects of computer related knowledge, especially Data Science and Business Analysis </h4>
@@ -30,7 +30,7 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<p align="left"><img src="https://img.shields.io/badge/🚀_RECENT_PROJECTS_🚀-995bfb" height="30em" style="border-radius:6px" /></p>
+<h2>Recent Projects</h2>
 
   <h4> - 🔬 &nbsp; <a href="https://github.com/brady0127/ACORN_Redesign">ACORN_Redesign</a> &nbsp;·&nbsp; <code>C++</code> &nbsp; Efficient arbitrary-filtering approximate nearest-neighbour search, built on ACORN </h4>
   <h4> - 🎥 &nbsp; <a href="https://github.com/brady0127/UNNC-CV-Coursework">UNNC-CV-Coursework</a> &nbsp;·&nbsp; <code>Python</code> &nbsp; Multi-person detection and tracking with YOLOv5 and DeepSORT, served through Streamlit </h4>
@@ -38,7 +38,7 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<p align="left"><img src="https://img.shields.io/badge/🧰_TECH_STACK_🧰-995bfb" height="30em" style="border-radius:6px" /></p>
+<h2>Tech Stack</h2>
 
 <table>
   <tr>
