@@ -3,12 +3,7 @@
 <h1 align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=600&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Brady!;%E6%AC%A2%E8%BF%8E%E5%85%89%E4%B8%B4%E5%B0%8F%E5%BC%A0%E5%90%8C%E5%AD%A6%E7%9A%84%E4%B8%BB%E9%A1%B5%EF%BC%81" alt="Typing SVG" /></a> 
   <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="display: inline-block;" /> 
-    <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" style="display: inline-block;" /> 
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" style="display: inline-block;" />
-    <img src="https://img.shields.io/badge/HTML-CSS-green?style=flat-square&logo=html&logoColor=white" style="display: inline-block;" /> 
-    <img src="https://img.shields.io/badge/SQLite-orange?style=flat-square&logo=sqlite&logoColor=white" style="display: inline-block;" /> 
-    <img src="https://komarev.com/ghpvc/?username=BradyZzzZ" alt="1879" style="display: inline-block;">
+    [![Skills](https://skillicons.dev/icons?i=py,cpp,pytorch,java,ts,sqlite,latex,git,linux&theme=dark)](https://skillicons.dev)
   </div>
 </h1>
 
