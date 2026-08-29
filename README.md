@@ -1,7 +1,7 @@
 <!-- <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"> -->
 
 <h1 align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&weight=600&size=30&pause=600&center=true&vCenter=true&random=false&letterSpacing=4.365px&width=520&lines=Hi%2C+I'm+BRADY!;%E6%AC%A2%E8%BF%8E%E5%85%89%E4%B8%B4%E5%B0%8F%E5%BC%A0%E5%90%8C%E5%AD%A6%E7%9A%84%E4%B8%BB%E9%A1%B5%EF%BC%81" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&weight=630&size=30&pause=600&center=true&vCenter=true&random=false&letterSpacing=4.365px&width=520&lines=Hi%2C+I'm+BRADY!;%E6%AC%A2%E8%BF%8E%E5%85%89%E4%B8%B4%E5%B0%8F%E5%BC%A0%E5%90%8C%E5%AD%A6%E7%9A%84%E4%B8%BB%E9%A1%B5%EF%BC%81" alt="Typing SVG" /></a>
   <br />
   <div style="text-align: center;">
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,cpp,pytorch,java,ts,sqlite,latex,git,linux&theme=dark" alt="Skills" /></a>
