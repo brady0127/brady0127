@@ -30,6 +30,61 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
+<p align="left"><img src="https://img.shields.io/badge/🚀_RECENT_PROJECTS_🚀-995bfb" height="30em" style="border-radius:6px" /></p>
+
+  <h4> - 🔬 &nbsp; <a href="https://github.com/brady0127/ACORN_Redesign">ACORN_Redesign</a> &nbsp;·&nbsp; <code>C++</code> &nbsp; Efficient arbitrary-filtering approximate nearest-neighbour search, built on ACORN </h4>
+  <h4> - 🎥 &nbsp; <a href="https://github.com/brady0127/UNNC-CV-Coursework">UNNC-CV-Coursework</a> &nbsp;·&nbsp; <code>Python</code> &nbsp; Multi-person detection and tracking with YOLOv5 and DeepSORT, served through Streamlit </h4>
+  <h4> - 🌐 &nbsp; <a href="https://brady0127.github.io">brady0127.github.io</a> &nbsp;·&nbsp; <code>HTML</code> &nbsp; Personal page — notes, background and longer writing </h4>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<p align="left"><img src="https://img.shields.io/badge/🧰_TECH_STACK_🧰-995bfb" height="30em" style="border-radius:6px" /></p>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="LaTeX" />
+      <br>LaTeX
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+  </tr>
+</table>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 </div>
