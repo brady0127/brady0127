@@ -3,7 +3,7 @@
 <h1 align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=600&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Brady!;%E6%AC%A2%E8%BF%8E%E5%85%89%E4%B8%B4%E5%B0%8F%E5%BC%A0%E5%90%8C%E5%AD%A6%E7%9A%84%E4%B8%BB%E9%A1%B5%EF%BC%81" alt="Typing SVG" /></a> 
   <div style="text-align: center;">
-    [![Skills](https://skillicons.dev/icons?i=py,cpp,pytorch,java,ts,sqlite,latex,git,linux&theme=dark)](https://skillicons.dev)
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,cpp,pytorch,java,ts,sqlite,latex,git,linux&theme=dark" alt="Skills" /></a>
   </div>
 </h1>
 
