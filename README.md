@@ -1,15 +1,21 @@
 <!-- <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"> -->
 
 <h1 align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&weight=600&size=30&pause=600&center=true&vCenter=true&random=false&letterSpacing=4.365px&width=520&lines=Hi%2C+I'm+BRADY!;%E6%AC%A2%E8%BF%8E%E5%85%89%E4%B8%B4%E5%B0%8F%E5%BC%A0%E5%90%8C%E5%AD%A6%E7%9A%84%E4%B8%BB%E9%A1%B5%EF%BC%81" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&weight=650&size=30&pause=600&center=true&vCenter=true&random=false&letterSpacing=4.365px&width=520&lines=Hi%2C+I'm+BRADY!;%E6%AC%A2%E8%BF%8E%E5%85%89%E4%B8%B4%E5%B0%8F%E5%BC%A0%E5%90%8C%E5%AD%A6%E7%9A%84%E4%B8%BB%E9%A1%B5%EF%BC%81" alt="Typing SVG" /></a>
   <br />
   <div style="text-align: center;">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,cpp,pytorch,java,ts,sqlite,latex,git,linux&theme=dark" alt="Skills" /></a>
+    <a href="https://brady0127.github.io"><img src="https://img.shields.io/badge/Profile-d5d5d5?style=for-the-badge" alt="Personal website of Bin Zhang" /></a>
+    <a href="https://www.linkedin.com/in/bin-zhang-304171293/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBBMDIwOSI%2BPHBhdGggZD0iTTQuNiA4LjdoMy4xdjExLjZINC42ek02LjE1IDMuNGExLjk1IDEuOTUgMCAxIDEgMCAzLjkgMS45NSAxLjk1IDAgMCAxIDAtMy45ek0xMC4yIDguN2gzdjEuN2MuNTItLjk1IDEuNy0xLjkgMy40NS0xLjkgMy4xNSAwIDMuOTUgMiAzLjk1IDQuOHY3aC0zLjF2LTYuM2MwLTEuNTUtLjU1LTIuNS0xLjktMi41LTEuMTUgMC0xLjguOC0yLjEgMS42LS4xLjI4LS4xNS43LS4xNSAxLjA1djYuMTVoLTMuMTV6Ii8%2BPC9zdmc%2B&logoColor=0A0209" alt="LinkedIn profile of Bin Zhang" /></a>
+    <a href="https://www.youtube.com/@binzhang0127"><img src="https://img.shields.io/badge/YouTube-d5d5d5?style=for-the-badge&logo=youtube&logoColor=0A0209" alt="YouTube channel of Bin Zhang" /></a>
+    <a href="https://x.com/REPLACE_ME"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="Twitter profile of Bin Zhang" /></a>
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbrady0127%2Fbrady0127&label=VISITORS&labelColor=%23000&countColor=%230A0209" alt="Visitor count for this profile" />
   </div>
 </h1>
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+<img src="https://raw.githubusercontent.com/brady0127/brady0127/main/assets/petals-left.svg" alt="" />
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="" />
+<img src="https://raw.githubusercontent.com/brady0127/brady0127/main/assets/petals-right.svg" alt="" />
 </div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
