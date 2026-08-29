@@ -28,10 +28,6 @@
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 </div>
 
-<div align="center">
-<img src="./github-metrics.svg" alt="Metrics" />
-</div>
-
 <!-- <p> &nbsp;</p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=brady0127">
 
