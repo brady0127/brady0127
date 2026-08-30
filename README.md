@@ -18,6 +18,10 @@
 
 <h2>About Me <img src="./assets/wave.png" alt="waving hand" width="30" height="30" /></h2>
 
+```txt
+Mostly thinking, sometimes coding, always staying upbeat.
+```
+
   <h4> - 🎓 &nbsp; Master student in Information Studies at McGill University </h4>
   <h4> - 🛫 &nbsp; Exchange student at the University of Glasgow in 2023-2024 </h4>
   <h4> - 📖 &nbsp; Learning various aspects of Computer Science, especially Data Science and Business Analysis </h4>
