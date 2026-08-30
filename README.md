@@ -18,11 +18,10 @@
 
 <h2>About Me <img src="./assets/wave.png" alt="waving hand" width="30" height="30" /></h2>
 
-  <h4> - 🎓 &nbsp; Master of Information Studies student at the McGill University </h4>
-  <h4> - 📖 &nbsp; Learning various aspects of computer related knowledge, especially Data Science and Business Analysis </h4>
+  <h4> - 🎓 &nbsp; Master student in Information Studies at McGill University </h4>
   <h4> - 🛫 &nbsp; Exchange student at the University of Glasgow in 2023-2024 </h4>
-  <h4> - 🌱 &nbsp; Enjoy deep thinking and meditation </h4>
-  <h4> - 🤔 &nbsp; Actively innovate, and dare to challenge difficult problems </h4>
+  <h4> - 📖 &nbsp; Learning various aspects of Computer Science, especially Data Science and Business Analysis </h4>
+  <h4> - 🤔 &nbsp; Open to work -- Actively innovate, and dare to challenge difficult problems </h4>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
