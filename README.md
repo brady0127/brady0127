@@ -16,7 +16,7 @@
 <img src="./assets/petals-left.svg" width="20%" alt="" /><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="56%" alt="" /><img src="./assets/petals-right.svg" width="20%" alt="" />
 </div>
 
-<h2>About Me</h2>
+<h2>About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="waving hand" width="30" height="30" /></h2>
 
   <h4> - 🎓 &nbsp; Master of Information Studies student at the McGill University </h4>
   <h4> - 📖 &nbsp; Learning various aspects of computer related knowledge, especially Data Science and Business Analysis </h4>
@@ -38,7 +38,7 @@
 
 -->
 
-<h2>Tech Stack</h2>
+<h2>Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="hammer and wrench" width="30" height="30" /></h2>
 
 <table>
   <tr>
