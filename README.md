@@ -13,9 +13,7 @@
 </h1>
 
 <div align="center">
-<img src="./assets/petals-left.svg" alt="" />
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="" />
-<img src="./assets/petals-right.svg" alt="" />
+<img src="./assets/petals-left.svg" width="20%" alt="" /><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="56%" alt="" /><img src="./assets/petals-right.svg" width="20%" alt="" />
 </div>
 
 <h2>About Me</h2>
@@ -45,7 +43,7 @@
 <table>
   <tr>
     <td colspan="3" align="center">
-      <img src="./assets/hello.svg" alt="Hello world" />
+      <img src="./assets/hello.svg" width="100%" alt="Hello world" />
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
@@ -118,6 +116,22 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="LaTeX" />
       <br>LaTeX
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB" />
+      <br>MATLAB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
     </td>
   </tr>
 </table>
