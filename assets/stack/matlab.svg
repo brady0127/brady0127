@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 119" width="112" height="119" role="img" aria-label="MATLAB">
 <style>
-.l{fill:#6b7684;font:600 20px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}
+@font-face{font-family:T;font-style:normal;font-weight:600;src:url(data:font/woff2;base64,d09GMgABAAAAAAKMAA0AAAAABKQAAAI8AAEAgwAAAAAAAAAAAAAAAAAAAAAAAAAAG4EaHDYGYABEEQgKgnyCRgE2AiQDGAsOAAQgBQYHIBt5AyCO0WNHJFeOfCI4xgFJPPS/H+vOvI9Kxk8XrVYaUTwSIREhUzKsSsjsRvHQxJ89jMO/AeKbqA6mNbGZFU78wtRN/ynwIIvkxV9ktTZImqYpJhpgnaeDMwos3SYqKkTGoIZEx9mLBTqN0MZwFF+UA3YN1P8CcZhckAN2BEIjEdqlZcxYFYhFAwDUNYB6CNQNgPoCUggtrOTaulBqCiH20GmWMeZ1V+9gSG6WF2RBebcgORPKz6XKRwBoUjHDwaLJ1ezAha2JNwz9Aj34TyXfEPYcBBehqmWbaTKAgHiZHRjDjUTBMCaBYcymQbt2iVU+gmvFCu+6bn1RF+q1ABCiVn2gFXSjHcfgEkADSEUIMdgId7DxSvfzcTJwhXIGc0HzqMpi0vmUW3fOyR08EycDT+drbDnj4iK0/pCTE13nNyH127qvZ47O5AoLqZwDOskxnDPyuGTgiuCK4ioMDhXQbcfTwvjGf5GjfPinYrgHfSPrtT2ikxdNu68TwTesETdwf+qbkZvjTl77XuQcnRbkamTjFcHswukS0XNhNK6bO51mkSD2EpfTsFZYDY4PradKUfz+tlBLLBsWbmkF7nvST7I3Y17dNdzMY7Z3pm/kuR9Ik6/LzHePpuzfJTahk9r9bHKh9P06yWKZH3KjA0AgnGVO9L8gPutv7KxMz8Cr5z5bgK/XO1dgp2wwdqBVgqBcVZRTsNd/JQoM8KGtuc0/R7RnKtRTg3qphmLWQgQDWk1hAgGsVWGqc2YBAA==) format('woff2')}
+.l{fill:#6b7684;font:600 20px T,Georgia,serif}
 @media (prefers-color-scheme:light){.l{fill:#49525f}}
 @media (prefers-color-scheme:dark){.l{fill:#a9b1ba}}
 </style>

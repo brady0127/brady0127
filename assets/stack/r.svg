@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 119" width="112" height="119" role="img" aria-label="R">
 <style>
-.l{fill:#6b7684;font:600 20px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}
+@font-face{font-family:T;font-style:normal;font-weight:600;src:url(data:font/woff2;base64,d09GMgABAAAAAAG8AA0AAAAAAxwAAAFwAAEAgwAAAAAAAAAAAAAAAAAAAAAAAAAAG1ocNgZgADQRCApccgE2AiQDCAsGAAQgBQYHIBtFAgCuB3hDGvU7kBiJIoyBWFndqmd5qGDVn54CtiNUOg/f7/f7tfc9iFojMYSomUgVL40mJREKTPf2OhCpDKHA/34VGJtDvdHEMlnNm0kikiKdxO8NBoOL1gkGXxaZdGA/b75M87+2qqj7cwAcPREgmtzgAANs0JQn23iXid8W2AQOFTbGsOGOXicF2k1bFmelaR90BWoCcVob90FHIBSJ0Cr1gmHjQgohJMIO7VasKmt2bxTi3dW4C/nhuNaB/A/yCQAl53NBUfIuL3C1y3in8ZswCBWywSi8Wonq0nAbEBDPeYFZnUhUGFQJtJhFyYHtmj+zvhEgRE0PSFCQmMESoAByuC3bd5jo0BkdVXt0Xb5Z24qx0puf9nYdly+n94PTa2/UgufLU5DcopoxWbPP8iN4w99/NPgGIBDON/4CT/slqk/g9VvDR6831OQp8YpmCYLqtkY2qHXkKQgAgMyGYM6hFkgzEoSSZhW8eisA) format('woff2')}
+.l{fill:#6b7684;font:600 20px T,Georgia,serif}
 @media (prefers-color-scheme:light){.l{fill:#49525f}}
 @media (prefers-color-scheme:dark){.l{fill:#a9b1ba}}
 </style>

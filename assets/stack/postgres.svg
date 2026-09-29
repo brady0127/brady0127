@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 119" width="112" height="119" role="img" aria-label="Postgres">
 <style>
-.l{fill:#6b7684;font:600 20px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}
+@font-face{font-family:T;font-style:normal;font-weight:600;src:url(data:font/woff2;base64,d09GMgABAAAAAAOoAA0AAAAABegAAANZAAEAgwAAAAAAAAAAAAAAAAAAAAAAAAAAG4FOHDYGYABUEQgKhHCEIwE2AiQDIAsSAAQgBQYHIBuiBFGUDMougK8PuCmCecH5iZBqq6c1nrVc+turR/3PLqrdsNdSHf6YYFhQHJhQkgG+iof6MdrbPdXkkm5uukbR0EzwkKDSgk+nXSJRGZqIfnh41/Y3/M4bkkhSCVGTaCiaiBfKrm6PxKNZoon3fA3w3y9yYF2+lEBERMCRzJ+EbSUslDU2+pC2ReYET9PEuCT4tCanpTW5ukkJDm23/JLLywuf9qFz6daAidMJDIcDn9CN59UWbfWRxg/+/BZN/kRPyK/bBKGjJ4bNKfp0d7ZAvT4z4mxx45JalfAuWKeba7yGiVRKH7DnpT2VuORmVI1qymcAVV6Tl2/Mx8gPcuWZ+zs5c5xCqME/Xo1KoUqq4NOQknu8UpVAvVlzKpd7Kzu6dr92ZuSw/VMjM5Ijc1CvTGlmqfKFp6lx+5B4StNvIA3qT5RPmbfhRoXSygX6FboH4pHUGNCIRAU6VQj7pNI8GtVKlTbsO3TZjRIw0LWvJe9OHTu0F73wUcI/pxa0ogGPEUT7dCNAIhL33hMWGDmBS3GK9QLX6BvJwsYRdsoSrgGSYy9kYKDiavQuDSJjiGyA1GgRBUg1Z7z0ygdJP/OHKVIpzDTvXe0jxW0FqWh7fgHC6B2hgEqi0f1krFpdAKTY3G1OP0V0kNhc3nIqtgynauu/u3fI+BYEX6sDg457hwh1AwAvxRMIS9gI8TfBQpHNicxyvp01y62TelmNjPQckNUEPC6veODJK/or4CDwqLNFXscTKSNOu845p5OYrVHJMlln0qjbd9Escgy2Yfu7KqVREgtCYvJOeLEBUBGe2dYskg7haERULbYHSnNajXLtklLbQsUeHvzKLTBE1xCIjsGBkB0AOC3q/7M+OdrQhUNGpWfR7XEtWEV4NGkQAKOj4WAeGIhgRxnvDLWchWly0Adk8HeNqxwzceoow7L22EfoqP2p20kQdMnzNZlRIrFQu4aaZwFfx0ibMNX9VC8AySM3pXQSyflWp6lyt8Ln0NJGTHbUbEzdGi+bhP6305ALpoWdyM6vB5q9HBGBQLh1RVhL35IS0N/Ak++94PnXDYywyqQ1V6iWIKi4U0BeYJVLgAC/U5vXjHMm4oNKmnUnHtEVB7rijGpM1AvUmqq6CrhqFZTKQ7MA) format('woff2')}
+.l{fill:#6b7684;font:600 20px T,Georgia,serif}
 @media (prefers-color-scheme:light){.l{fill:#49525f}}
 @media (prefers-color-scheme:dark){.l{fill:#a9b1ba}}
 </style>

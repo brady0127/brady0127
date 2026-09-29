@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 119" width="112" height="119" role="img" aria-label="AWS">
 <style>
-.l{fill:#6b7684;font:600 20px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}
+@font-face{font-family:T;font-style:normal;font-weight:600;src:url(data:font/woff2;base64,d09GMgABAAAAAAJoAA0AAAAABCgAAAIYAAEAgwAAAAAAAAAAAAAAAAAAAAAAAAAAG4EAHDYGYABEEQgKgiiCFgE2AiQDEAsKAAQgBQYHIBsnA1GUzMUdso/FOCbFK+KLokdA4sxWsnP1OGXmJyBQfvmIrLv54QJHufiFfvrtaEGUaUR5iTRPPMFAOD1ZshffJK8Ek6ToGAGltnoL227YdXuFHFISELbZbOftFQgIchFBIeoux0CjZXIg3UX6kvQr6c70I4JMEAGxDc0MpYEGyydPnb1Yy0322nlbnbfYebNtdD6DnVcAyGPHuFxFHu+NR+NY9YT3DPS34IF9Rn6K8SZYljVKvTyZ3RggQHgoHo32aiMiQ2OZgMZy/VEoREywyLKUuF96MN2QrhUABCEl9UAOCuRYi0MBOSAKQsO8d+t6k2WoLi0XVylW0ddAbXCTA18tj3595LIli+96rHrMG+Gg16fe/vrr6W94vtajuLz08sfLo5914GtDbnvttX3K1eXKcnm5tgxV5YrqKn3WJX+Z2H75Ly2fse53ox95Zt26l77qOe63qxZ/VLPiI+n+DYdvscPEvduNaXDq8iLMs2XzkbM7Dx+zrPvRb65pM2bK5M2PXr509I6d/q0cubxWseiBfVr2e63ngNkd/z5yizazZxv1c68hN/ZceP5TlbOeWnRPz+Hr/jB9h10qB+4yYt3vhhy4Z2WzPeevg/0KBASHfLHZN4eqN/q3oib7El798sTh8w+fekNMv2cPxFNRI4JAdmNC9qSY/sseEAAAeXzS/HihInbWY1AIyPVeV4NqZKR0m4EAAA==) format('woff2')}
+.l{fill:#6b7684;font:600 20px T,Georgia,serif}
 @media (prefers-color-scheme:light){.l{fill:#49525f}}
 @media (prefers-color-scheme:dark){.l{fill:#a9b1ba}}
 </style>

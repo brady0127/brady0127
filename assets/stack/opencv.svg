@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 119" width="112" height="119" role="img" aria-label="OpenCV">
 <style>
-.l{fill:#6b7684;font:600 20px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}
+@font-face{font-family:T;font-style:normal;font-weight:600;src:url(data:font/woff2;base64,d09GMgABAAAAAAMkAA0AAAAABXgAAALUAAEAgwAAAAAAAAAAAAAAAAAAAAAAAAAAG4FYHDYGYABcEQgKg3iDOQE2AiQDHAsQAAQgBQYHIBtGBECuCuyG8zsMilckjBW6bXpKOCYnIoDs+r66Z59m9+xIEeXoQlg/A4A+GJf3RLIn4AEOZBJCnRtD+TSE+HVuxcVA2I0gNCQlTbSiUwVsbeomf1MXhmkEiSe0B41tnU+wjCN/ijOJAg8sAs2CmNcS5mlGnaXHz1csINdcB2H1gqEewCtASgLCqiUDPYBHQFAQEeVaC0oKCGoLgkxQnt4VTYfGQkOwygFI1wGQPoX0K6QrDeh0N+mO9EkaREFQzg5k4zJEBRsdRTbIjpDrqLPC4KEtOuAsGh+IgWzZgD8KslxJmakrhdg6TodR4b1xL/bvCe/p6G8iDpQfKb8SqFCtL6uT2nsye4AA4aEILZUQkaGuTEBdBcOB6ipF5QZpZ+DXoy8lLBen+9Mt6bp0KZ1KJ4UX8SElNaAqQHVU4Qq8JUeTD+J6WrNSqWY9XLP6lHX3vhK9jtgbH8VeK5yiMyRyr8Lm10iNMuoH59xyrXVb3vsdb4zms/O5eagmn1GclYfiostkp9/MKlHdI9ypF1eyF3k1CCpseXh4lafoaGfFwfaguC6EPdWDlzY3BEtFTdtvpqmPaM6Q7fvbD0+oPttd1tc1mCqgb4WvMeN2na1ntndoeMTVoaXNn4l345CNq8eOz13z2NrBWx7aP33jo6P74j3z3lBoxecObMeDwSU416530vhku75OcA4/mis7sXmE898ju2cGjVbP9EBfcGA9aI/1gK6pMx2/YV3Oyw3781PqcjOEDij/cS8rXtt2Kqqk3TKo62tivLruq8a0zkCFtbX7YxDGNy3eC7u1tQ9mHW7yoM+hX5mVDYVlhshQz2BDZVN2XmknA9m9f3V2YVk7AAQE29Ynbqo+r0bv3yjPvoRXvzzcFz7/8Kk3xdQ+3hSPo1wEgezGhPi8KIs3Cea6Ij5pfNyhOfOAzeMlMbyvSRyJEzspCqjQRgSBcOUyUuk2HQEA) format('woff2')}
+.l{fill:#6b7684;font:600 20px T,Georgia,serif}
 @media (prefers-color-scheme:light){.l{fill:#49525f}}
 @media (prefers-color-scheme:dark){.l{fill:#a9b1ba}}
 </style>

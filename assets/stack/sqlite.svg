@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 119" width="112" height="119" role="img" aria-label="SQLite">
 <style>
-.l{fill:#6b7684;font:600 20px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}
+@font-face{font-family:T;font-style:normal;font-weight:600;src:url(data:font/woff2;base64,d09GMgABAAAAAAMYAA0AAAAABWAAAALIAAEAgwAAAAAAAAAAAAAAAAAAAAAAAAAAG4FKHDYGYABcEQgKg2yDKwE2AiQDHAsQAAQgBQYHIBsqBKAuBmPHzSbRESrZN131UqXbXoV4eLLr+3Or56lnBWUEgwTAh4J0GX2YEXO4hsbl/Ygm6UUOQBWSExidFuUOJsP/8goY0/c1goJ0CrsNRsuVIdD20XLENO2Mo/IwTCOIA03s+cDaR/sBX/TdRAc4sgHOcD4SmhsOQ5QE+hfavlOBUheDxJ6NVj1wUYH8BWL3VrMeuCAQKhJCvWQLB+zTolYdkC9A3gCQDwjys01CqIXUclBU1ASyUEicVK5QGmGUypRpWCoI2Fxr1oKo7WaZBkQ9DUZ5TFRSj8TkSOwzCVw4Et8a4W/gg/qA8isBZbCsRcvMG0WFISBeTKCbRkgo0Eoh0ErFDEAT9ZJac5BQyKhYc8Z9OD/Id/Lt/FR+PF8T59DIWdOb1IEmaMCj+AhQAYQkJEk0adZsUOs6h7JNU4+oFmU0Vqbq8qWWFiqNSj8u+QwSn7vrU2rrqRufgCOfumv0MgZtb3NLKhSIRN0+MPQ5pIJvnJbG+MZx9tCNd2wn+8GnJ5tnxgy0Fr9GJ3T2cuCy6VM3PghaD6laWy6uq6m6uS66/E+MqqrSkaqe7tnwsB5zNFsQKBAdvdHy1Dpnt6d2kgRQOBSKxWGThONLr/Z078Whb79S3a/Tt0qUyi6pSD6oy+ncqYVCdQYV+F8buxSGirrQ4uY3VrjEfMp2BXOi8sYuj+v7ghdcPBUq72PSi4yRPzVnVjjXL36+PiD10wHD50R8ndkejMWCvTMqGBxxo9moMPcqeFo9oHYSpLo07s/a2e1nyk2alp3WdR3gda7SVcGCXxcVhKAsGypB1/EWF8/PoGKgj5MIFf2a/rn5c1eIEt+HDwMAgXD8V/Pn673H/FZfW/wMn/x8Bfjxhze/UOZPU6dErQSC4nZG+lSZ/0t3BACgLr1hQeqvXzrRJUXpH7c6RpTO0aEUqDNIAgGkVkGWxwgA) format('woff2')}
+.l{fill:#6b7684;font:600 20px T,Georgia,serif}
 @media (prefers-color-scheme:light){.l{fill:#49525f}}
 @media (prefers-color-scheme:dark){.l{fill:#a9b1ba}}
 </style>

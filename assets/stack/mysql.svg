@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 119" width="112" height="119" role="img" aria-label="MySQL">
 <style>
-.l{fill:#6b7684;font:600 20px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}
+@font-face{font-family:T;font-style:normal;font-weight:600;src:url(data:font/woff2;base64,d09GMgABAAAAAALcAA0AAAAABPQAAAKLAAEAgwAAAAAAAAAAAAAAAAAAAAAAAAAAG4EkHDYGYABMEQgKgzyDCAE2AiQDGAsOAAQgBQYHIBvNAyAGnufz3s59yU/TZAikHaVkhvJSwNLcUW/YqRaVZg8zSTyhotrx83H6aGqBz8dHeD7iAY1EZzdT5KVccZvl8dxXI4BDKWogA7uNHIyNCaA1AsiAXsMHYwMCCCYKEGwU7TABn0xChAD0N9BPQX8FQfo36Kf01n0UghCCkphQKwwqFYfmGXCoRwNML9JPpFiPccMHUqHP8F4DqLA4qnAFAABMVU6lEsJUp9R8YKGGyBPq8Ruogv1e8g1pg884I7+uzjVjnwAIgJxX84Ey5AAUYAAFMBCgACZNAAcbhSKKOBIYpzXgtw/1YX1A79cLkRWkaE3upQVAjhgvBC6AtpgMHEYhSK4SefLUKJQ7h7iGIzlxlJuSNMFRLg7Zpjrp7X5x09wMd8TUxKTE5NvO/Lsy7Z674E7itLtCbzP1zrh5ckrSxR5Tj12zyBKPX058T+rII3ev+6rDw5YrzvxbuWp4+M6dEU5q4vt9SrojNUgy9j8JfxF0udUlKB50u3Ut/+zsMBoeqB5/q3PwK2jT2DzVp96VoWYbL/gedL4VH+z7cMJ8dWI/+yJmxQVepOf5UX6Nrht2Xp67+OD51Wv3XRqzYNDgaT369p3ds1vvRYMazeo30PMGDemHPtNtdp8h7caXbpl3ZaotMfQt0syv0KRlSpX597NKtozwes9PTW4xtPzf0NzUMDvh7IRite9Uq+uX+z23T0nfRw2uvWpw3antEj8m+tUnbh5eN/5JfNM+n62Ez/XjbwCAAMKMvQ/Pvg5yt/hmW8Z7gNvvl7YCePv8+j0sXd3IUCsBCwWAgLFPA8YkLGwjAwEvaqlrxKqqVDEmUU7doZSqQFXlYiGARQ0UAIIICwOdPkw9AAAA) format('woff2')}
+.l{fill:#6b7684;font:600 20px T,Georgia,serif}
 @media (prefers-color-scheme:light){.l{fill:#49525f}}
 @media (prefers-color-scheme:dark){.l{fill:#a9b1ba}}
 </style>
