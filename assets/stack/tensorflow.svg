@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 119" width="112" height="119" role="img" aria-label="TensorFlow">
 <style>
-.l{fill:#6b7684;font:600 19px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}
+.l{fill:#6b7684;font:600 20px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}
 @media (prefers-color-scheme:light){.l{fill:#49525f}}
 @media (prefers-color-scheme:dark){.l{fill:#a9b1ba}}
 </style>
-<g transform="translate(10,0) scale(0.359375)" fill="none">
+<g transform="translate(13,0) scale(0.3359375)" fill="none">
 <rect width="256" height="256" rx="60" fill="#242938"/>
 <path d="M124.228 229L90.623 208.89V90.31L40 120.459L40.123 75.545L124.228 26V229ZM131.784 26V229L165.393 208.89V151.781L190.763 166.895L190.612 127.833L165.393 112.988V90.31L216 120.459L215.878 75.545L131.784 26Z" fill="#FF6F00"/>
 </g>
-<text class="l" x="56.0" y="115" text-anchor="middle">TensorFlow</text>
+<text class="l" x="56.0" y="114" text-anchor="middle" textLength="105.3" lengthAdjust="spacingAndGlyphs">TensorFlow</text>
 </svg>

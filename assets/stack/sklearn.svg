@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 119" width="112" height="119" role="img" aria-label="Sklearn">
 <style>
-.l{fill:#6b7684;font:600 19px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}
+.l{fill:#6b7684;font:600 20px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}
 @media (prefers-color-scheme:light){.l{fill:#49525f}}
 @media (prefers-color-scheme:dark){.l{fill:#a9b1ba}}
 </style>
-<g transform="translate(10,0) scale(0.359375)" fill="none">
+<g transform="translate(13,0) scale(0.3359375)" fill="none">
 <rect width="256" height="256" rx="60" fill="#242938"/>
 <g clip-path="url(#clip0_983_172)">
 <path d="M181.405 160.654C205.831 136.23 209.891 100.69 190.472 81.2731C171.056 61.8579 135.518 65.9168 111.094 90.3399C86.6691 114.764 93.7346 161.426 102.028 169.721C108.73 176.423 156.982 185.078 181.405 160.654Z" fill="#F89939"/>
@@ -22,5 +22,5 @@
 </clipPath>
 </defs>
 </g>
-<text class="l" x="56.0" y="115" text-anchor="middle">Sklearn</text>
+<text class="l" x="56.0" y="114" text-anchor="middle">Sklearn</text>
 </svg>
