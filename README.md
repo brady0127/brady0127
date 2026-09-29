@@ -13,7 +13,7 @@
 </h1>
 
 <div align="center">
-<img src="./assets/petals-left.svg" width="20%" alt="" /><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="56%" alt="" /><img src="./assets/petals-right.svg" width="20%" alt="" />
+<img src="./assets/petals-left.svg" width="20%" alt="" /><img src="./assets/coding.gif" width="56%" alt="" /><img src="./assets/petals-right.svg" width="20%" alt="" />
 </div>
 
 <h2>About Me <img src="./assets/wave.png" alt="waving hand" width="30" height="30" /></h2>
@@ -27,7 +27,7 @@ Mostly thinking, sometimes coding, always staying upbeat.
   <h4> - 📖 &nbsp; Learning various aspects of Computer Science, especially Data Science and Business Analysis </h4>
   <h4> - 🤔 &nbsp; I am open to new opportunities :) </h4>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="./assets/hr.gif" />
 
 <!-- Recent Projects — 内容待补充
 
@@ -37,7 +37,7 @@ Mostly thinking, sometimes coding, always staying upbeat.
   <h4> - 🎥 &nbsp; <a href="https://github.com/brady0127/UNNC-CV-Coursework">UNNC-CV-Coursework</a> &nbsp;·&nbsp; <code>Python</code> &nbsp; Multi-person detection and tracking with YOLOv5 and DeepSORT, served through Streamlit </h4>
   <h4> - 🌐 &nbsp; <a href="https://brady0127.github.io">brady0127.github.io</a> &nbsp;·&nbsp; <code>HTML</code> &nbsp; Personal page — notes, background and longer writing </h4>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="./assets/hr.gif" />
 
 -->
 
@@ -139,10 +139,10 @@ Mostly thinking, sometimes coding, always staying upbeat.
   </tr>
 </table>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="./assets/hr.gif" />
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+<img src="./assets/icon.png" />
 </div>
 
 <!-- <p> &nbsp;</p>
