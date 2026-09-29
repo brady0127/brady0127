@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 119" width="112" height="119" role="img" aria-label="TensorFlow">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 123" width="112" height="123" role="img" aria-label="TensorFlow">
 <style>
 @font-face{font-family:T;font-style:normal;font-weight:600;src:url(data:font/woff2;base64,d09GMgABAAAAAAPIAA0AAAAABoAAAAN4AAEAgwAAAAAAAAAAAAAAAAAAAAAAAAAAG4ISHDYGYABkEQgKhSiENAE2AiQDKAsWAAQgBQYHIBsPBSAuB2xjGtQ3jBjbUEssLpS8nDla5h/EEERpy3qkPZIMSJH/OUQyR88cAmGEDJHL4RPrf8blPwAjfJLqEKrY5r6o5L63aFThAP1g09TkBfAPTjiiACfShJKDvHy03hyWmizVIhaLWAdjbKjsgfN/Ob016E5PD8cSOfETGbux7F66sU1tk+PAeh9buijLEwso0sQ122acDUZgiGV2xA/T/2wEMGRQhozoG3ABHg/AFQLI8IE+F+ABAQQPBQhBFBvwgF1cIkQQ3AIAcOkYrgEAXDgEAAC4npra3QQX6O9ZB/jKbejj60TND8ApCqfQt8KgZzGvEIQQtNEgfkAfiQE8fH4CUr6lWmD/I2AopzFem3azAsjuH/U5oHSwz2iH0s9Elq74oKdyVB2YpfSMAizcRd5Szm9gFbyfWb4Eg4wT1ixX6oZ+KXtALipAFmGAAjQQh0bkux49AKKIQgPtEGDEgRs/YTfJu/B91p2+77prr7nqcoIbBHFFJIwBHAdY4ClIElrggbwgqMWdEhPFwZn0sLCkIr5fICJCOGFYwsRqI+FSRiac/gwxTb/hxXgme257Wj2VH/bUdjm1ZvvNeJAWbsT6QubZSAXJtEvGkzQshq1huZYD238qS1Y17a3uMlOf2p4PXtBVLRAdEZ3hCS3L+sdXDrWsFRYeHrXdlt169uyRpdWAboAnmHrz6dOH443EyMI+hMVUW7mVWvH2yvRrF2SNuHuY0it7c6S6Qj3z2Ln3B0OPqnGsienHZG9MbX2cOhLVfM1juDy3WSzXJX0es2/VrHS4QJCmbsBPGt16+0nejtrxtsYCFaA+VkieqDhXjcAA3rJngy/FjbqHaJetl/8rzB1fOZ+qXzINyudW3lvz9X7ozMwwcyJu0wU3AkH/uks+OTrT0TWwODrYK+7tHhJA/XWGMNcrCPQuXdS0RcXXV4Fj+q+cCq5H4WBWO9+UtFHDMdL8lThC4dbo4sekmZfISwmGtvlQ17B4tpI4qpKAbzWqsuAkNU24QF5IEMD/KJKuxXgFZkLhbMZVu/xZ0W703X/Fw5lyf5MnVjwBgADCjL316ad603q/Bf26AeBJw1IA9R9uviDoUn1WBwA/CgABfcAB6jdBguozgl9j1A16qFaK1BQ48o5USSBSdSJbBQItB5uXySaYFcBQRL7VBT8aOwfKAQA=) format('woff2')}
 .l{fill:#6b7684;font:600 20px T,Georgia,serif}
 @media (prefers-color-scheme:light){.l{fill:#49525f}}
 @media (prefers-color-scheme:dark){.l{fill:#a9b1ba}}
 </style>
-<g transform="translate(13,0) scale(0.3359375)" fill="none">
+<g transform="translate(13,4.5) scale(0.3359375)" fill="none">
 <rect width="256" height="256" rx="60" fill="#242938"/>
 <path d="M124.228 229L90.623 208.89V90.31L40 120.459L40.123 75.545L124.228 26V229ZM131.784 26V229L165.393 208.89V151.781L190.763 166.895L190.612 127.833L165.393 112.988V90.31L216 120.459L215.878 75.545L131.784 26Z" fill="#FF6F00"/>
 </g>
-<text class="l" x="56.0" y="114" text-anchor="middle">TensorFlow</text>
+<text class="l" x="56.0" y="118.5" text-anchor="middle">TensorFlow</text>
 </svg>
