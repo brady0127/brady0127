@@ -44,6 +44,7 @@ Mostly thinking, sometimes coding, always staying upbeat.
 <h2>Tech Stack <img src="./assets/tools.png" alt="hammer and wrench" width="30" height="30" /></h2>
 
 <table>
+  <tbody>
   <tr>
     <td colspan="3" align="center" width="37.5%">
       <img src="./assets/hello.svg" width="100%" alt="Hello world" />
@@ -64,6 +65,8 @@ Mostly thinking, sometimes coding, always staying upbeat.
       <img src="./assets/stack/opencv.svg" width="100%" alt="OpenCV" />
     </td>
   </tr>
+  </tbody>
+  <tbody>
   <tr>
     <td align="center" width="12.5%">
       <img src="./assets/stack/ts.svg" width="100%" alt="TypeScript" />
@@ -90,6 +93,8 @@ Mostly thinking, sometimes coding, always staying upbeat.
       <img src="./assets/stack/mysql.svg" width="100%" alt="MySQL" />
     </td>
   </tr>
+  </tbody>
+  <tbody>
   <tr>
     <td align="center" width="12.5%">
       <img src="./assets/stack/matlab.svg" width="100%" alt="MATLAB" />
@@ -116,6 +121,7 @@ Mostly thinking, sometimes coding, always staying upbeat.
       <img src="./assets/stack/aws.svg" width="100%" alt="AWS" />
     </td>
   </tr>
+  </tbody>
 </table>
 
 <img width="200%" src="./assets/hr.gif" />
