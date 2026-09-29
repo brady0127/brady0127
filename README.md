@@ -45,96 +45,75 @@ Mostly thinking, sometimes coding, always staying upbeat.
 
 <table>
   <tr>
-    <td colspan="3" align="center">
+    <td colspan="3" align="center" width="37.5%">
       <img src="./assets/hello.svg" width="100%" alt="Hello world" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
-      <br>Python
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/py.svg" width="100%" alt="Python" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-      <br>PyTorch
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/pytorch.svg" width="100%" alt="PyTorch" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/tensorflow.svg" width="100%" alt="TensorFlow" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Sklearn" />
-      <br>Sklearn
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/sklearn.svg" width="100%" alt="Sklearn" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-      <br>OpenCV
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/opencv.svg" width="100%" alt="OpenCV" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/ts.svg" width="100%" alt="TypeScript" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
-      <br>Anaconda
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/anaconda.svg" width="100%" alt="Anaconda" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
-      <br>Postgres
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/postgres.svg" width="100%" alt="Postgres" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br>C++
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/cpp.svg" width="100%" alt="C++" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/java.svg" width="100%" alt="Java" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
-      <br>R
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/r.svg" width="100%" alt="R" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-      <br>SQLite
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/sqlite.svg" width="100%" alt="SQLite" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/mysql.svg" width="100%" alt="MySQL" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB" />
-      <br>MATLAB
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/matlab.svg" width="100%" alt="MATLAB" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/docker.svg" width="100%" alt="Docker" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/vscode.svg" width="100%" alt="VS Code" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="LaTeX" />
-      <br>LaTeX
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/latex.svg" width="100%" alt="LaTeX" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/linux.svg" width="100%" alt="Linux" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-      <br>Bash
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/bash.svg" width="100%" alt="Bash" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/git.svg" width="100%" alt="Git" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
+    <td align="center" width="12.5%">
+      <img src="./assets/stack/aws.svg" width="100%" alt="AWS" />
     </td>
   </tr>
 </table>
