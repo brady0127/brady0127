@@ -47,78 +47,78 @@ Mostly thinking, sometimes coding, always staying upbeat.
   <tbody>
   <tr>
     <td colspan="3" align="center" width="37.5%">
-      <img src="./assets/hello.svg" width="100%" alt="Hello world" />
+      <img align="top" src="./assets/hello.svg" width="100%" alt="Hello world" />
     </td>
     <td align="center" width="12.5%">
-      <img src="./assets/stack/py.svg" width="100%" alt="Python" />
+      <img align="top" src="./assets/stack/py.svg" width="100%" alt="Python" />
     </td>
     <td align="center" width="12.5%">
-      <img src="./assets/stack/pytorch.svg" width="100%" alt="PyTorch" />
+      <img align="top" src="./assets/stack/pytorch.svg" width="100%" alt="PyTorch" />
     </td>
     <td align="center" width="12.5%">
-      <img src="./assets/stack/tensorflow.svg" width="100%" alt="TensorFlow" />
+      <img align="top" src="./assets/stack/tensorflow.svg" width="100%" alt="TensorFlow" />
     </td>
     <td align="center" width="12.5%">
-      <img src="./assets/stack/sklearn.svg" width="100%" alt="Sklearn" />
+      <img align="top" src="./assets/stack/sklearn.svg" width="100%" alt="Sklearn" />
     </td>
     <td align="center" width="12.5%">
-      <img src="./assets/stack/opencv.svg" width="100%" alt="OpenCV" />
-    </td>
-  </tr>
-  </tbody>
-  <tbody>
-  <tr>
-    <td align="center" width="12.5%">
-      <img src="./assets/stack/ts.svg" width="100%" alt="TypeScript" />
-    </td>
-    <td align="center" width="12.5%">
-      <img src="./assets/stack/anaconda.svg" width="100%" alt="Anaconda" />
-    </td>
-    <td align="center" width="12.5%">
-      <img src="./assets/stack/postgres.svg" width="100%" alt="Postgres" />
-    </td>
-    <td align="center" width="12.5%">
-      <img src="./assets/stack/cpp.svg" width="100%" alt="C++" />
-    </td>
-    <td align="center" width="12.5%">
-      <img src="./assets/stack/java.svg" width="100%" alt="Java" />
-    </td>
-    <td align="center" width="12.5%">
-      <img src="./assets/stack/r.svg" width="100%" alt="R" />
-    </td>
-    <td align="center" width="12.5%">
-      <img src="./assets/stack/sqlite.svg" width="100%" alt="SQLite" />
-    </td>
-    <td align="center" width="12.5%">
-      <img src="./assets/stack/mysql.svg" width="100%" alt="MySQL" />
+      <img align="top" src="./assets/stack/opencv.svg" width="100%" alt="OpenCV" />
     </td>
   </tr>
   </tbody>
   <tbody>
   <tr>
     <td align="center" width="12.5%">
-      <img src="./assets/stack/matlab.svg" width="100%" alt="MATLAB" />
+      <img align="top" src="./assets/stack/ts.svg" width="100%" alt="TypeScript" />
     </td>
     <td align="center" width="12.5%">
-      <img src="./assets/stack/docker.svg" width="100%" alt="Docker" />
+      <img align="top" src="./assets/stack/anaconda.svg" width="100%" alt="Anaconda" />
     </td>
     <td align="center" width="12.5%">
-      <img src="./assets/stack/vscode.svg" width="100%" alt="VS Code" />
+      <img align="top" src="./assets/stack/postgres.svg" width="100%" alt="Postgres" />
     </td>
     <td align="center" width="12.5%">
-      <img src="./assets/stack/latex.svg" width="100%" alt="LaTeX" />
+      <img align="top" src="./assets/stack/cpp.svg" width="100%" alt="C++" />
     </td>
     <td align="center" width="12.5%">
-      <img src="./assets/stack/linux.svg" width="100%" alt="Linux" />
+      <img align="top" src="./assets/stack/java.svg" width="100%" alt="Java" />
     </td>
     <td align="center" width="12.5%">
-      <img src="./assets/stack/bash.svg" width="100%" alt="Bash" />
+      <img align="top" src="./assets/stack/r.svg" width="100%" alt="R" />
     </td>
     <td align="center" width="12.5%">
-      <img src="./assets/stack/git.svg" width="100%" alt="Git" />
+      <img align="top" src="./assets/stack/sqlite.svg" width="100%" alt="SQLite" />
     </td>
     <td align="center" width="12.5%">
-      <img src="./assets/stack/aws.svg" width="100%" alt="AWS" />
+      <img align="top" src="./assets/stack/mysql.svg" width="100%" alt="MySQL" />
+    </td>
+  </tr>
+  </tbody>
+  <tbody>
+  <tr>
+    <td align="center" width="12.5%">
+      <img align="top" src="./assets/stack/matlab.svg" width="100%" alt="MATLAB" />
+    </td>
+    <td align="center" width="12.5%">
+      <img align="top" src="./assets/stack/docker.svg" width="100%" alt="Docker" />
+    </td>
+    <td align="center" width="12.5%">
+      <img align="top" src="./assets/stack/vscode.svg" width="100%" alt="VS Code" />
+    </td>
+    <td align="center" width="12.5%">
+      <img align="top" src="./assets/stack/latex.svg" width="100%" alt="LaTeX" />
+    </td>
+    <td align="center" width="12.5%">
+      <img align="top" src="./assets/stack/linux.svg" width="100%" alt="Linux" />
+    </td>
+    <td align="center" width="12.5%">
+      <img align="top" src="./assets/stack/bash.svg" width="100%" alt="Bash" />
+    </td>
+    <td align="center" width="12.5%">
+      <img align="top" src="./assets/stack/git.svg" width="100%" alt="Git" />
+    </td>
+    <td align="center" width="12.5%">
+      <img align="top" src="./assets/stack/aws.svg" width="100%" alt="AWS" />
     </td>
   </tr>
   </tbody>
