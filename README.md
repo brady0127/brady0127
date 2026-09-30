@@ -23,7 +23,7 @@ Mostly thinking, sometimes coding, always staying upbeat.
 ```
 
   <h4> - 🎓 &nbsp; Master student in Information and Data Science at McGill University </h4>
-  <h4> - 🎓 &nbsp; Conducting a research project on Approximate Nearest Neighbor Search as a member of L1NNA Lab </h4>
+  <h4> - 🔬 &nbsp; Conducting a research project on Approximate Nearest Neighbor Search as a member of L1NNA Lab </h4>
   <h4> - 🛫 &nbsp; Exchange student at the University of Glasgow in 2023-2024 </h4>
   <h4> - 📖 &nbsp; Learning various aspects of Computer Science, especially Data Science and Business Analysis </h4>
   <h4> - 🤔 &nbsp; I am open to new opportunities :) </h4>
